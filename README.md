@@ -1,17 +1,27 @@
 Cat Merge 🐾
 
-A mobile puzzle game where players merge cats to create higher-level cats, now with advanced game systems and improved mechanics.
-<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/b45397a4-344b-4642-a11e-3a3d8806667a" />
+Cat Merge is a mobile puzzle game where players merge cats to create higher-level cats, now featuring advanced game systems and improved mechanics.
+<img width="275" height="487" alt="image" src="https://github.com/user-attachments/assets/14dca728-e768-4cfb-8e5f-0d617950b715" />
 
-Updates & Features 🔧
-Drag-and-drop interaction using Unity physics and colliders has been refined for smoother gameplay 🖐️
-Merge mechanic upgraded: identical cats now spawn higher-level cats more reliably 🐱➡️🐱
-GameState management implemented 📊
-In-game economy system added with resource management 💰
-Modular, object-oriented scripts redesigned for maintainability and scalability ⚙️
-Android platform optimized for performance across a wide range of devices 📱
-
-
+Features 🔧
+Drag-and-Drop Gameplay: Smooth interactions using Unity physics and colliders.
+Merge Mechanic: Identical cats merge to spawn higher-level cats, with upgraded reliability and sounds.
+GameState Management: Tracks player progress.
+Economy System: Integrated in-game economy with rewards, upgrades, and resource management.
+Modular OOP Scripts: Designed for maintainability, scalability, and easy feature additions.
+Platform: Fully optimized for Android devices.
 How to Play 🎮
 
-Drag cats into each other to merge them. Higher-level merges unlock new cats, drive in-game progression, and interact with the economy system. Collect, upgrade, and strategize to progress through increasingly challenging levels.
+Drag cats into each other to merge them. Higher-level merges unlock new cats, drive in-game progression, and interact with the economy system. Plan your merges strategically to progress through increasingly challenging levels.
+
+Technologies Used 🛠️
+Unity
+C#
+Object-Oriented Programming (OOP) principles
+GameState & Economy System Implementation
+Changelog 📝
+Added GameState management for better progress tracking.
+Implemented in-game economy system with rewards and upgrades.
+Improved merge mechanics for more consistent gameplay.
+Optimized drag-and-drop interaction using Unity physics.
+Refactored codebase with modular OOP scripts for scalability.
