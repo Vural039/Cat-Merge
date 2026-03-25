@@ -1,7 +1,6 @@
 Cat Merge 🐾
 
 Cat Merge is a mobile puzzle game where players merge cats to create higher-level cats, now featuring advanced game systems and improved mechanics.
-<img width="275" height="487" alt="image" src="https://github.com/user-attachments/assets/14dca728-e768-4cfb-8e5f-0d617950b715" />
 
 Features 🔧
 Drag-and-Drop Gameplay: Smooth interactions using Unity physics and colliders.
